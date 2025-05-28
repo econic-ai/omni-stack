@@ -28,7 +28,7 @@ Omni Stack is open source, however running and maintaining your own deployment c
 ### SaaS Platform
 Get started immediately with our fully managed cloud platform.
 
-<a href="/docs/technology/ai-models/why-graphs" class="__link small sk-mt-12 sk-mb-12" style="text-decoration: none;">
+<a href="/flow/register" class="__link small sk-mt-12 sk-mb-12" style="text-decoration: none;">
     <span>Try Our SaaS</span>
     <!-- <i class="fa-solid fa-arrow-right"></i> -->
 </a>
