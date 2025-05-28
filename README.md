@@ -15,6 +15,7 @@ Omni Stack is open source, however running and maintaining your own deployment c
 | **Community Support** | ✅ | ✅ | ✅ |
 | **Self-hosted** | ✅ | ❌ | ✅ |
 | **Managed Infrastructure** | ❌ | ✅ | ✅ |
+| **Advanced Search** | ❌ | ✅ | ✅ |
 | **Advanced Analytics** | ❌ | ✅ | ✅ |
 | **Premium Integrations** | ❌ | ✅ | ✅ |
 | **Priority Support** | ❌ | ✅ | ✅ |
